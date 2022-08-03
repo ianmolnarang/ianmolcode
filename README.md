@@ -8,8 +8,8 @@ Making it work, Making it right, Making it fast.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [ianmolnarang@gmail.com](mailto:ianmolnarang@gmail.com)
-* 🚀  I'm currently working on [ChitNChat- An App For Communication.](http://myapp.com)
-* 🧠  I'm learning Flutter
+* 🚀  I'm currently working on Android Development
+* 🧠  I'm learning Cross-Platform Android Development Using React Native
 * 🤝  I'm open to collaborating on Open Source
 
 <a href="https://www.github.com/ianmolcode" target="_blank" rel="noreferrer"><img
