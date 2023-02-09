@@ -11,7 +11,7 @@ Making it work, Making it right, Making it fast.
 * 🚀  I'm currently working on Android Development
 * 🧠  I'm learning Cross-Platform Android Development Using React Native
 * 🤝  I'm open to collaborating on Open Source
-[![anmolcodez's GitHub stats](https://stats.quine.sh/anmolcodez/github)](https://quine.sh)
+
 <a href="https://www.github.com/ianmolcode" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ianmolcode?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
@@ -44,3 +44,5 @@ src="https://img.shields.io/github/followers/ianmolcode?logo=github&style=for-th
 <a href="http://www.github.com/ianmolcode"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ianmolcode&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/ianmolcode"><img src="https://activity-graph.herokuapp.com/graph?username=ianmolcode&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+[![anmolcodez's GitHub stats](https://stats.quine.sh/anmolcodez/github)](https://quine.sh)
