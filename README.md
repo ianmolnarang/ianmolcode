@@ -11,7 +11,7 @@ Making it work, Making it right, Making it fast.
 * 🚀  I'm currently working on Android Development
 * 🧠  I'm learning Cross-Platform Android Development Using React Native
 * 🤝  I'm open to collaborating on Open Source
-
+[![anmolcodez's GitHub stats](https://stats.quine.sh/anmolcodez/github)](https://quine.sh)
 <a href="https://www.github.com/ianmolcode" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ianmolcode?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
